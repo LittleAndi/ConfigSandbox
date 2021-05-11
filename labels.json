@@ -1,0 +1,6 @@
+{
+    "labelImages": [
+        { "Filename": "Filename_1.png", "PositionX": 100, "PositionY": 110 },
+        { "Filename": "Filename_2.png", "PositionX": 200, "PositionY": 110 }
+    ]
+}
